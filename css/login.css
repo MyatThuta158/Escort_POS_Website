@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.sLoginHeader {
+  max-height: 13vh;
+  background-color: black;
+}
+
+.sLoginHeader img {
+  object-fit: cover;
+  max-height: 13vh;
+}
+
+.margin {
+  margin-top: 13vh;
+}
+
+.background {
+  background-color: black;
+  border-color: whitesmoke;
+  color: whitesmoke;
+  border-radius: 20px;
+}
+
+.linkAcc {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.bgLogin {
+  position: absolute;
+  width: 100vw;
+  height: 87vh;
+  object-fit: cover;
+}
